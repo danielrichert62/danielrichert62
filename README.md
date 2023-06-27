@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielrichert62
 - 👀 I’m interested in fitness, technology and the Word of God.
-- 🌱 I’m currently learning Ruby
-- 📫 How to reach me daniel.richert62@gmail.com
+- 🌱 I’m currently learning Ruby, Git, HTML, CSS and more.
+- 📫 How to reach me danielrichert62@gmail.com
 
 <!---
 danielrichert62/danielrichert62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
