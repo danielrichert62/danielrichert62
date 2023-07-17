@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielrichert62
 - 👀 I’m interested in fitness, technology and the Word of God.
-- 🌱 I’m currently learning Ruby, Git, HTML, CSS and more.
+- 🌱 I’m currently learning Ruby, Rails, Git, HTML, CSS and more.
 - 📫 How to reach me danielrichert62@gmail.com
 
 <!---
